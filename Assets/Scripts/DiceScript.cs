@@ -5,7 +5,8 @@ using UnityEngine;
 public class DiceScript : MonoBehaviour
 {
     static Rigidbody rb;
-    public Vector3 diceVelocity;
+    public static Vector3 diceVelocity;
+    public static string diceNumber;
 
     // Start is called before the first frame update
     void Start()
@@ -22,11 +23,11 @@ public class DiceScript : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            diceNumber = "99";
             rb.AddForce(transform.up * 400f);
             transform.position = new Vector3(0f, 1f, 0f);
             transform.rotation = Quaternion.identity; // new Vector3(0,5,5)
             rb.AddTorque(velX, velY, velZ);
         }
-
     }
 }

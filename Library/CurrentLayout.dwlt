@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 98
+  controlID: 69
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 59
+  controlID: 49
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,8 +144,8 @@ MonoBehaviour:
     y: 0
     width: 279
     height: 451
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -173,10 +173,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 711, y: 498}
-  m_MaxSize: {x: 18006, y: 14048}
+  m_MinSize: {x: 713, y: 498}
+  m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 97
+  controlID: 128
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -368,14 +368,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Eduardo\Documents\DicepProject
+  m_LastProjectPath: "D:\\NUR\\Simulaci\xF3n\\I-2019\\Repositorios\\intro-unity"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be300000
-    m_LastClickedID: 12478
-    m_ExpandedIDs: 00000000002e00005630000000ca9a3b
+    m_SelectedIDs: ca2e0000
+    m_LastClickedID: 11978
+    m_ExpandedIDs: 00000000502d00009a2e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -403,7 +403,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000502d00009a2e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -447,7 +447,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 8}
+      m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -522,9 +522,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 40c4ffff
-      m_LastClickedID: -15296
-      m_ExpandedIDs: a2c6ffff5cc8ffffaecbffffecf0ffff
+      m_SelectedIDs: f0f0ffff
+      m_LastClickedID: -3856
+      m_ExpandedIDs: e6f0ffff88f1ffff58f6ffff602f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -576,12 +576,12 @@ MonoBehaviour:
   m_WindowGUID: 743aee4695d23e147af612bfb517496c
   m_SceneLighting: 1
   m_2DMode: 0
-  m_isRotationLocked: 0
+  m_isRotationLocked: 1
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.9401596, y: 0.83770955, z: -1.9278088}
+    m_Target: {x: 485.5, y: 272, z: 0}
     speed: 2
-    m_Value: {x: 3.9401596, y: 0.83770955, z: -1.9278088}
+    m_Value: {x: 485.5, y: 272, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -609,13 +609,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.07599907, y: -0.9121832, z: 0.19758344, w: 0.35086575}
+    m_Target: {x: 0.06650511, y: -0.91797847, z: 0.17446133, w: 0.34993705}
     speed: 2
-    m_Value: {x: 0.07599907, y: -0.9121832, z: 0.19758344, w: 0.35086575}
+    m_Value: {x: 0.06650511, y: -0.91797847, z: 0.17446133, w: 0.34993705}
   m_Size:
-    m_Target: 13.8770275
+    m_Target: 233.34525
     speed: 2
-    m_Value: 13.8770275
+    m_Value: 233.34525
   m_Ortho:
     m_Target: 0
     speed: 2
